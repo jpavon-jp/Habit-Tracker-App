@@ -61,4 +61,4 @@ This project was developed for the **Software Engineering** course at the Univer
 * **Jonathan Concha**
 * **Liana Mikhailova**
 
-* **Original Group Repository:** [Insert Link Here]
+* **Original Group Repository:** [https://github.com/YaredBM/Habit-Tracker-App]
